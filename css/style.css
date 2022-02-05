@@ -8,6 +8,7 @@ h1{
 }
 .top-container{
   background-color: #bcc6cc;
+  height: 100vh;
 }
 
 .profile{
@@ -38,8 +39,8 @@ h3 {
     font-family: 'Montserrat',sans-serif;
     color: #353591;
 }
-.mountain{
-    width: 99.8%;
+.first-img{
+    position: relative;
 }
 
 .skill-row {
